@@ -48,7 +48,7 @@ const Login = () => {
             <h1 className="text-6xl font-bold text-green mb-4">Notify</h1>
             <br />
             <p className="text-gray text-lg">
-              Say goodbye to missed doses and hello to a healthier, happier you.
+              Say goodbye to missed reminders and hello to a healthier, happier you.
               Welcome to Notify
             </p>
           </div>
