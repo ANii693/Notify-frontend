@@ -6,8 +6,8 @@ import { createContext } from "react";
 import { ChakraProvider } from "@chakra-ui/react";
 
 
-export const server = import.meta.env.VITE_SOME_KEY;
-
+// export const server = import.meta.env.VITE_SOME_KEY;
+export const server = "https://notify-backend-0k4u.onrender.com/api/v1";
 
 export const Context = createContext({ isAuthenticated: false });
 
