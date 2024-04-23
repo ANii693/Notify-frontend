@@ -221,12 +221,12 @@ const Home = () => {
               Please scan the given QR code and hit the send button
             </p> < br />
             <img
-              src="/qr code.PNG"
+              src="/qr.PNG"
               alt="QR code"
               className="h-32 mx-auto mt-2"
             />< br />
             <p className="text-gray-600">
-              Or, on WhatsApp, text "join plate-charge" to the number
+              Or, on WhatsApp, text "join solar-brown" to the number
               +14155238886
             </p>
           </div>

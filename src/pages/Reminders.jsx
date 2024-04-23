@@ -59,7 +59,7 @@ const Reminders = () => {
             <thead>
               <tr>
                 <th className="border bg-green-200 text-center py-2 px-4">
-                  Medication Name
+                  Name
                 </th>
                 <th className="border bg-green-200 text-center py-2 px-4">
                   Time (24hr : 60min)
