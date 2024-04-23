@@ -5,7 +5,7 @@ import "./styles/index.css";
 import { createContext } from "react";
 import { ChakraProvider } from "@chakra-ui/react";
 
-export const server = "http://localhost:7000/api/v1";
+export const server = process.env.REACT_APP_API_URL;
 
 export const Context = createContext({ isAuthenticated: false });
 
