@@ -14,7 +14,7 @@ const Footer = () => {
             </NavLink>
             <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-black sm:mb-0 dark:text-black">
               <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">
+                <a href="https://anii693.vercel.app/" className="mr-4 hover:underline md:mr-6">
                   Portfolio
                 </a>
               </li>
